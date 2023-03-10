@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+=======
+
+# CSV
+input/
+*.csv
+
+.DS_Store
+>>>>>>> fd6c3b3 (first commit)
